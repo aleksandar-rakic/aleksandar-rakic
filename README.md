@@ -92,6 +92,22 @@ I specialize in **rescuing struggling SaaS products** and **modernizing legacy P
 
 </div>
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aleksandar-rakic&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleksandar-rakic/aleksandar-rakic/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleksandar-rakic/aleksandar-rakic/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/aleksandar-rakic/aleksandar-rakic/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 ## Featured Projects
