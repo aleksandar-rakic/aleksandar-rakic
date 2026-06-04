@@ -26,7 +26,7 @@ jobs:
       - name: Commit and push
         run: |
           git config user.name "Aleksandar Rakić"
-          git config user.email "atco89@users.noreply.github.com"
+          git config user.email "aleksandar-rakic@users.noreply.github.com"
           git add .last_active
           git diff --staged --quiet || git commit -m "chore: daily activity ping [$(date -u '+%Y-%m-%d')]"
           git push

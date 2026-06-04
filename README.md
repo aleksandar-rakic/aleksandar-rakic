@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleksandar_Rakić-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakic-aleksandar)
 [![Website](https://img.shields.io/badge/The_Ordinary_Company-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://theordinarycompany.io/)
-[![Profile Views](https://komarev.com/ghpvc/?username=atco89&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/atco89)
+[![Profile Views](https://komarev.com/ghpvc/?username=aleksandar-rakic&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/aleksandar-rakic)
 
 </div>
 
@@ -80,15 +80,15 @@ I specialize in **rescuing struggling SaaS products** and **modernizing legacy P
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=atco89&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aleksandar-rakic&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atco89&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-rakic&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=atco89&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=aleksandar-rakic&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -98,10 +98,10 @@ I specialize in **rescuing struggling SaaS products** and **modernizing legacy P
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**linux-nginx-postgresql-php**](https://github.com/atco89/linux-nginx-postgresql-php) | Production-ready LEPP Docker stack — SSL, HTTP auth, Diffie-Hellman | `Docker` `NGINX` `PostgreSQL` `PHP-FPM` |
-| [**terraform**](https://github.com/atco89/terraform) | AWS infrastructure as code — EC2, RDS, S3, Route53 | `Terraform` `AWS` `HCL` |
-| [**e-fiskalizacija**](https://github.com/atco89/e-fiskalizacija) | Serbian e-fiscalization integration library | `PHP` |
-| [**pekabeta-api**](https://github.com/atco89/pekabeta-api) | Food shop REST API | `Go` |
+| [**linux-nginx-postgresql-php**](https://github.com/aleksandar-rakic/linux-nginx-postgresql-php) | Production-ready LEPP Docker stack — SSL, HTTP auth, Diffie-Hellman | `Docker` `NGINX` `PostgreSQL` `PHP-FPM` |
+| [**terraform**](https://github.com/aleksandar-rakic/terraform) | AWS infrastructure as code — EC2, RDS, S3, Route53 | `Terraform` `AWS` `HCL` |
+| [**e-fiskalizacija**](https://github.com/aleksandar-rakic/e-fiskalizacija) | Serbian e-fiscalization integration library | `PHP` |
+| [**pekabeta-api**](https://github.com/aleksandar-rakic/pekabeta-api) | Food shop REST API | `Go` |
 
 ---
 
