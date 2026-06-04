@@ -118,6 +118,7 @@ I specialize in **rescuing struggling SaaS products** and **modernizing legacy P
 | [**terraform-atlantis-gitops**](https://github.com/aleksandar-rakic/terraform-atlantis-gitops) | GitOps Terraform on AWS — plan on PR, apply on merge, no direct CLI access | `Terraform` `Atlantis` `AWS` `TFLint` `Trivy` |
 | [**rasa-openai-hybrid**](https://github.com/aleksandar-rakic/rasa-openai-hybrid) | Hybrid chatbot — RASA NLU for structured flows + GPT-4o-mini fallback | `Python` `RASA` `OpenAI` `Docker` `Kubernetes` `Helm` |
 | [**vue3-saas-dashboard**](https://github.com/aleksandar-rakic/vue3-saas-dashboard) | Production SaaS dashboard starter with auth, dark mode, charts | `Vue 3` `TypeScript` `Pinia` `Tailwind` `Vite` |
+| [**network-intrusion-detection-ml**](https://github.com/aleksandar-rakic/network-intrusion-detection-ml) | ML classifier for ARP Spoof, SYN Flood & Smurf attacks — 99.96–100% F1 Score | `Python` `scikit-learn` `TensorFlow` `LSTM` `Random Forest` |
 
 ---
 
