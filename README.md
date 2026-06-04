@@ -114,10 +114,10 @@ I specialize in **rescuing struggling SaaS products** and **modernizing legacy P
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**linux-nginx-postgresql-php**](https://github.com/aleksandar-rakic/linux-nginx-postgresql-php) | Production-ready LEPP Docker stack — SSL, HTTP auth, Diffie-Hellman | `Docker` `NGINX` `PostgreSQL` `PHP-FPM` |
-| [**terraform**](https://github.com/aleksandar-rakic/terraform) | AWS infrastructure as code — EC2, RDS, S3, Route53 | `Terraform` `AWS` `HCL` |
-| [**e-fiskalizacija**](https://github.com/aleksandar-rakic/e-fiskalizacija) | Serbian e-fiscalization integration library | `PHP` |
-| [**pekabeta-api**](https://github.com/aleksandar-rakic/pekabeta-api) | Food shop REST API | `Go` |
+| [**laravel-octane-frankenphp**](https://github.com/aleksandar-rakic/laravel-octane-frankenphp) | Laravel 11 + FrankenPHP — 4000+ req/s, HTTP/2, built-in TLS, zero-downtime deploys | `Laravel` `PHP` `FrankenPHP` `Docker` `PostgreSQL` |
+| [**terraform-atlantis-gitops**](https://github.com/aleksandar-rakic/terraform-atlantis-gitops) | GitOps Terraform on AWS — plan on PR, apply on merge, no direct CLI access | `Terraform` `Atlantis` `AWS` `TFLint` `Trivy` |
+| [**rasa-openai-hybrid**](https://github.com/aleksandar-rakic/rasa-openai-hybrid) | Hybrid chatbot — RASA NLU for structured flows + GPT-4o-mini fallback | `Python` `RASA` `OpenAI` `Docker` `Kubernetes` `Helm` |
+| [**vue3-saas-dashboard**](https://github.com/aleksandar-rakic/vue3-saas-dashboard) | Production SaaS dashboard starter with auth, dark mode, charts | `Vue 3` `TypeScript` `Pinia` `Tailwind` `Vite` |
 
 ---
 
