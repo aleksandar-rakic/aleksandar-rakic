@@ -1,0 +1,32 @@
+name: Daily Activity
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Svaki dan u 09:00 UTC (11:00 Beograd)
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update activity log
+        run: |
+          DATE=$(date -u '+%Y-%m-%d')
+          TIME=$(date -u '+%H:%M UTC')
+          echo "Last active: $DATE $TIME" > .last_active
+          echo "" >> .last_active
+          echo "Streak kept alive automatically. Building every day. 🚀" >> .last_active
+
+      - name: Commit and push
+        run: |
+          git config user.name "Aleksandar Rakić"
+          git config user.email "atco89@users.noreply.github.com"
+          git add .last_active
+          git diff --staged --quiet || git commit -m "chore: daily activity ping [$(date -u '+%Y-%m-%d')]"
+          git push
