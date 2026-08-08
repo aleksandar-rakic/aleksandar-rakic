@@ -113,8 +113,8 @@
 ### Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aleksandar-rakic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-rakic&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="languages" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=aleksandar-rakic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="stats" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aleksandar-rakic&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="languages" />
 </div>
 
 <br/>
