@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=SaaS+Rescue+%26+DevOps+Engineer+%F0%9F%9B%A0%EF%B8%8F;I+fix+what+others+couldn't+ship+%F0%9F%9A%80;Laravel+%7C+PHP+%7C+Kubernetes+%7C+AWS;Docker+%7C+CI%2FCD+%7C+Terraform+%7C+CDKTF;Belgrade%2C+Serbia+%F0%9F%87%B7%F0%9F%87%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Senior+Cloud+%2F+Platform+Engineer;AWS+%7C+Kubernetes+%7C+Terraform+%7C+GitOps;Observability+%7C+CI%2FCD+%7C+Production+Reliability;Belgrade%2C+Serbia" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleksandar_Rakić-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakic-aleksandar)
 [![Website](https://img.shields.io/badge/The_Ordinary_Company-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://theordinarycompany.io/)
-[![Profile Views](https://komarev.com/ghpvc/?username=aleksandar-rakic&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/aleksandar-rakic)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-6324-8532)
 
 </div>
 
@@ -14,65 +14,57 @@
 
 ## What I Do
 
-I specialize in **rescuing struggling SaaS products** and **modernizing legacy PHP codebases** — the kind of work most engineers avoid. If your product is slow, unmaintainable, or stuck in deployment hell, that's where I come in.
+Senior Cloud / Platform engineer focused on **AWS**, **Kubernetes**, **Terraform/CDKTF**, **GitOps delivery**, and **production observability**.
+
+Background in software engineering helps when production issues cross infrastructure, delivery, and application layers.
 
 ```text
-💡 Take over broken products → stabilize → modernize → ship
-🔁 Transform manual deployments → fully automated CI/CD pipelines
-☁️  Migrate monoliths → containerized, cloud-native architectures
-🛡️  PHP/Laravel rescue, refactor, and scale
+Cloud platforms   AWS, EKS, Kubernetes, Helm, Docker, Linux
+Infrastructure    Terraform, CDKTF, GitOps (PR-based delivery)
+Reliability       Prometheus, Grafana, Loki, OpenTelemetry, incident-style troubleshooting
+Delivery          GitHub Actions, CI/CD hardening, safer promotions across environments
+Systems           Kafka-oriented event workloads, APIs, distributed services
 ```
 
-> *Nearly a decade in the industry. Currently building at [The Ordinary Company](https://theordinarycompany.io/).*
+> 11+ years in software and production systems. Currently building at [The Ordinary Company](https://theordinarycompany.io/).
 
 ---
 
 ## Tech Stack
 
-**Backend**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black)
-
-**Cloud & Infrastructure**
+**Cloud & Platform**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**CI/CD & Tooling**
+**Infrastructure as Code & GitOps**
 
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CDKTF](https://img.shields.io/badge/CDKTF-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![CDK for Terraform](https://img.shields.io/badge/CDKTF-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=flat-square&logo=gnu&logoColor=white)
 
-**Databases & Messaging**
+**Observability & Reliability**
 
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?style=flat-square&logo=opentelemetry&logoColor=black)
+
+**Data & Messaging**
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Integrations**
+**Software Engineering**
 
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ---
 
@@ -92,39 +84,15 @@ I specialize in **rescuing struggling SaaS products** and **modernizing legacy P
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aleksandar-rakic&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleksandar-rakic/aleksandar-rakic/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleksandar-rakic/aleksandar-rakic/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/aleksandar-rakic/aleksandar-rakic/output/github-snake.svg" />
-</picture>
-
-</div>
-
 ---
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**laravel-octane-frankenphp**](https://github.com/aleksandar-rakic/laravel-octane-frankenphp) | Laravel 11 + FrankenPHP — 4000+ req/s, HTTP/2, built-in TLS, zero-downtime deploys | `Laravel` `PHP` `FrankenPHP` `Docker` `PostgreSQL` |
-| [**terraform-atlantis-gitops**](https://github.com/aleksandar-rakic/terraform-atlantis-gitops) | GitOps Terraform on AWS — plan on PR, apply on merge, no direct CLI access | `Terraform` `Atlantis` `AWS` `TFLint` `Trivy` |
-| [**rasa-openai-hybrid**](https://github.com/aleksandar-rakic/rasa-openai-hybrid) | Hybrid chatbot — RASA NLU for structured flows + GPT-4o-mini fallback | `Python` `RASA` `OpenAI` `Docker` `Kubernetes` `Helm` |
-| [**vue3-saas-dashboard**](https://github.com/aleksandar-rakic/vue3-saas-dashboard) | Production SaaS dashboard starter with auth, dark mode, charts | `Vue 3` `TypeScript` `Pinia` `Tailwind` `Vite` |
-| [**network-intrusion-detection-ml**](https://github.com/aleksandar-rakic/network-intrusion-detection-ml) | ML classifier for ARP Spoof, SYN Flood & Smurf attacks — 99.96–100% F1 Score | `Python` `scikit-learn` `TensorFlow` `LSTM` `Random Forest` |
+| Project | Focus |
+|---------|--------|
+| [**terraform-atlantis-gitops**](https://github.com/aleksandar-rakic/terraform-atlantis-gitops) | GitOps Terraform on AWS: plan on PR, apply on merge, guarded infrastructure changes |
+| [**network-intrusion-detection-ml**](https://github.com/aleksandar-rakic/network-intrusion-detection-ml) | ML-based detection for ARP spoofing / SYN flood style attacks (research + applied security) |
+| [**laravel-octane-frankenphp**](https://github.com/aleksandar-rakic/laravel-octane-frankenphp) | Production Docker/CI setup for high-throughput app runtime |
+| [**rasa-openai-hybrid**](https://github.com/aleksandar-rakic/rasa-openai-hybrid) | Hybrid AI service with Docker/Kubernetes/Helm deployment path |
 
----
-
-<div align="center">
-
-**Have a broken SaaS or a painful deployment pipeline?**<br/>
-[**Let's talk →**](https://linkedin.com/in/rakic-aleksandar)
-
-</div>
+Open to remote Cloud / Platform / SRE roles focused on AWS, Kubernetes, Terraform, and production reliability.
