@@ -7,14 +7,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=180&section=header&text=Aleksandar%20Rakić&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%2F%20Platform%20%2F%20SRE%20Engineer&descAlignY=55&descSize=18" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=70&lines=AWS+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+GitOps;Observability+%C2%B7+CI%2FCD+%C2%B7+Production+Reliability" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=AWS+%7C+Kubernetes+%7C+Terraform+%7C+GitOps+%7C+Observability" alt="typing" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleksandar_Rakić-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakic-aleksandar)
-[![Company](https://img.shields.io/badge/The_Ordinary_Company-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://theordinarycompany.io/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-6324-8532)
-[![Location](https://img.shields.io/badge/Belgrade%2C_Serbia-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/aleksandar-rakic)
+<p>
+<a href="https://www.linkedin.com/in/rakic-aleksandar"><img src="https://img.shields.io/badge/LinkedIn-Aleksandar_Rakić-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://theordinarycompany.io/"><img src="https://img.shields.io/badge/The_Ordinary_Company-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Company" /></a>
+<a href="https://orcid.org/0009-0002-6324-8532"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<a href="https://github.com/aleksandar-rakic"><img src="https://img.shields.io/badge/Belgrade%2C_Serbia-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+</p>
 
 </div>
 
@@ -23,18 +25,18 @@
 ### About
 
 ```text
-┌──────────────────────────────────────────────────────────────────────┐
-│  Senior Cloud / Platform Engineer                                    │
-│                                                                      │
-│  I design and operate production platforms on AWS and Kubernetes,    │
-│  with Terraform/CDKTF, GitOps delivery, and observability that       │
-│  actually helps during incidents.                                    │
-│                                                                      │
-│  Strong software-engineering background means I debug across         │
-│  infrastructure, pipelines, and application layers - not just YAML.  │
-│                                                                      │
-│  11+ years in production systems · Building at The Ordinary Company  │
-└──────────────────────────────────────────────────────────────────────┘
++------------------------------------------------------------------+
+|  Senior Cloud / Platform Engineer                                |
+|                                                                  |
+|  Production platforms on AWS and Kubernetes.                     |
+|  Terraform/CDKTF, GitOps delivery, observability for incidents.  |
+|                                                                  |
+|  Software-engineering background for debugging across            |
+|  infrastructure, pipelines, and application layers.              |
+|                                                                  |
+|  11+ years in production systems                                 |
+|  Currently building at The Ordinary Company                      |
++------------------------------------------------------------------+
 ```
 
 <div align="center">
