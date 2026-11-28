@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=180&section=header&text=Aleksandar%20Raki%C4%87&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Senior%20Platform%20Engineer%20%C2%B7%20AWS%20%C2%B7%20Kubernetes%20%C2%B7%20Cloud%20Security&descAlignY=56&descSize=18" alt="Aleksandar Rakić, Senior Platform Engineer" />
 
-<a href="https://github.com/aleksandar-rakic/aws-security-hub-auto-remediation"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Secure-by-default+AWS+%26+EKS+platforms;Security+findings+fixed+in+seconds%2C+not+sprints;Terraform+%C2%B7+GitOps+%C2%B7+private+clusters+%C2%B7+observability;PhD+research%3A+ML+for+network+attack+detection" alt="Secure-by-default AWS and EKS platforms" /></a>
+<a href="https://github.com/aleksandar-rakic/aws-security-hub-auto-remediation"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Secure-by-default+AWS+%26+EKS+platforms;Security+findings+turned+into+automation;Terraform+%C2%B7+GitOps+%C2%B7+private+clusters+%C2%B7+observability;PhD+research%3A+ML+for+network+attack+detection" alt="Secure-by-default AWS and EKS platforms" /></a>
 
 <p>
 <a href="https://www.linkedin.com/in/rakic-aleksandar"><img src="https://img.shields.io/badge/LinkedIn-rakic--aleksandar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
