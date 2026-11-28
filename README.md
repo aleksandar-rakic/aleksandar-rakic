@@ -29,7 +29,7 @@ I build and run **AWS and Kubernetes platforms that are secure by default and qu
 
 ## ⭐ Featured: Security Hub auto-remediation
 
-<a href="https://github.com/aleksandar-rakic/aws-security-hub-auto-remediation"><b>aws-security-hub-auto-remediation</b></a> fixes failed AWS Security Hub controls across an AWS Organization within seconds of detection and writes every decision back onto the finding. Service control policies stop accounts from switching detection or remediation off.
+<a href="https://github.com/aleksandar-rakic/aws-security-hub-auto-remediation"><b>aws-security-hub-auto-remediation</b></a> fixes failed AWS Security Hub controls across an AWS Organization as soon as the finding arrives, without waiting for a ticket, and writes every decision back onto the finding. Service control policies stop accounts from switching detection or remediation off.
 
 ```mermaid
 flowchart LR
